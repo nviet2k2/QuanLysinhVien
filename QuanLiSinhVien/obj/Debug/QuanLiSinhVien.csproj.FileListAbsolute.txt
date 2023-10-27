@@ -1,0 +1,12 @@
+D:\c#\DoAN\QuanLiSinhVien\QuanLiSinhVien\bin\Debug\QuanLiSinhVien.exe.config
+D:\c#\DoAN\QuanLiSinhVien\QuanLiSinhVien\bin\Debug\QuanLiSinhVien.exe
+D:\c#\DoAN\QuanLiSinhVien\QuanLiSinhVien\bin\Debug\QuanLiSinhVien.pdb
+D:\c#\DoAN\QuanLiSinhVien\QuanLiSinhVien\obj\Debug\QuanLiSinhVien.csproj.AssemblyReference.cache
+D:\c#\DoAN\QuanLiSinhVien\QuanLiSinhVien\obj\Debug\QuanLiSinhVien.csproj.SuggestedBindingRedirects.cache
+D:\c#\DoAN\QuanLiSinhVien\QuanLiSinhVien\obj\Debug\QuanLiSinhVien.DanhMucMonHoc.resources
+D:\c#\DoAN\QuanLiSinhVien\QuanLiSinhVien\obj\Debug\QuanLiSinhVien.Form1.resources
+D:\c#\DoAN\QuanLiSinhVien\QuanLiSinhVien\obj\Debug\QuanLiSinhVien.Properties.Resources.resources
+D:\c#\DoAN\QuanLiSinhVien\QuanLiSinhVien\obj\Debug\QuanLiSinhVien.csproj.GenerateResource.cache
+D:\c#\DoAN\QuanLiSinhVien\QuanLiSinhVien\obj\Debug\QuanLiSinhVien.csproj.CoreCompileInputs.cache
+D:\c#\DoAN\QuanLiSinhVien\QuanLiSinhVien\obj\Debug\QuanLiSinhVien.exe
+D:\c#\DoAN\QuanLiSinhVien\QuanLiSinhVien\obj\Debug\QuanLiSinhVien.pdb
